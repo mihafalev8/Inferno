@@ -1,0 +1,898 @@
+# Copyright (C) 2020 ThemeGrill
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: FitClub 1.2.0\n"
+"Report-Msgid-Bugs-To: themegrill@gmail.com\n"
+"POT-Creation-Date: 2020-12-16 10:54:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:35
+msgid "404"
+msgstr ""
+
+#: 404.php:28
+msgid "Oops!"
+msgstr ""
+
+#: 404.php:28
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:31
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr ""
+
+#: 404.php:37
+msgid "error"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:76
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:77
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:47
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:113
+msgid "Menu"
+msgstr ""
+
+#: inc/admin/class-fitclub-admin.php:37
+msgid "Processing..."
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:41
+#. translators: %s: Theme Name.
+msgid "%s Options"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:68
+#. translators: %s: Theme version.
+msgid "FitClub %s"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:77
+#. translators: %s: Theme Name.
+msgid "Welcome to %s!"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:83
+#. translators: %s: Theme Name.
+msgid "Important links to get you started with %s"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:89
+msgid "Get Started"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:92
+msgid "Learn Basics"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:97
+msgid "Next Steps"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:99
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:100
+msgid "Starter Demos"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:101
+msgid "Premium Version"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:106
+msgid "Further Actions"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:108
+#: inc/admin/class-fitclub-theme-review-notice.php:95
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/admin/class-fitclub-dashboard.php:109
+msgid "Leave a review"
+msgstr ""
+
+#: inc/admin/class-fitclub-notice.php:58 inc/admin/class-fitclub-notice.php:77
+#: inc/admin/class-fitclub-welcome-notice.php:76
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-fitclub-notice.php:62 inc/admin/class-fitclub-notice.php:81
+#: inc/admin/class-fitclub-welcome-notice.php:80
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/class-fitclub-theme-review-notice.php:68
+#. Translators: %1$s current user display name.
+msgid ""
+"Howdy, %1$s! It seems that you have been using this theme for more than 15 "
+"days. We hope you are happy with everything that the theme has to offer. If "
+"you can spare a minute, please help us by leaving a 5-star review on "
+"WordPress.org.  By spreading the love, we can continue to develop new "
+"amazing features in the future, for free!"
+msgstr ""
+
+#: inc/admin/class-fitclub-theme-review-notice.php:80
+msgid "Sure"
+msgstr ""
+
+#: inc/admin/class-fitclub-theme-review-notice.php:85
+#: inc/admin/class-fitclub-upgrade-notice.php:95
+msgid "Maybe later"
+msgstr ""
+
+#: inc/admin/class-fitclub-theme-review-notice.php:90
+msgid "I already did"
+msgstr ""
+
+#: inc/admin/class-fitclub-upgrade-notice.php:90
+#. Translators: %1$s current user display name., %2$s this theme name., %3$s
+#. discount coupon code., %4$s discount percentage.
+msgid "Upgrade to pro"
+msgstr ""
+
+#: inc/admin/class-fitclub-upgrade-notice.php:100
+msgid "Got pre sales queries?"
+msgstr ""
+
+#: inc/admin/class-fitclub-welcome-notice.php:25
+msgid "Get started with fitclub"
+msgstr ""
+
+#: inc/admin/class-fitclub-welcome-notice.php:25
+msgid "Get started with FitClub"
+msgstr ""
+
+#: inc/admin/class-fitclub-welcome-notice.php:45
+msgid "fitclub"
+msgstr ""
+
+#: inc/admin/class-fitclub-welcome-notice.php:53
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+msgid ""
+"Welcome! Thank you for choosing FitClub! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %1$swelcome "
+"page%2$s."
+msgstr ""
+
+#: inc/admin/class-fitclub-welcome-notice.php:62
+msgid ""
+"Clicking the button will install and activate the ThemeGrill demo importer "
+"plugin."
+msgstr ""
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:20
+msgid "Our Team Designation"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:30 inc/customizer.php:218
+msgid "Default Layout"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:35 inc/widgets.php:20
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:40 inc/widgets.php:30
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:45
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:50
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:57
+msgid "Team designation"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:99
+msgid "Show designation in Our Team Widget."
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "View PRO version"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Change Header Settings here"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Choose the required option"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Header Logo Only"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Header Text Only"
+msgstr ""
+
+#: inc/customizer.php:132
+msgid "Show both header logo and text"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Change Slider Settings here"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Note"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid ""
+"1. To display the Slider first check Enable the slider below. Now create "
+"the page for each slider and enter title, text and featured image. Choose "
+"that pages in the dropdown options."
+msgstr ""
+
+#: inc/customizer.php:155
+msgid ""
+"2. The recommended size for the slider image is 1920 x 1000 pixels. For "
+"better functioning of slider use equal size images for each slide."
+msgstr ""
+
+#: inc/customizer.php:155
+msgid ""
+"3. If page do not have featured Image than that page will not included in "
+"slider show."
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Slide "
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Design Related Settings"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Design Options"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid ""
+"Select default layout. This layout will be reflected in whole site "
+"archives, categories, search page etc. The layout for a single post and "
+"page can be controlled from below options"
+msgstr ""
+
+#: inc/customizer.php:255
+msgid "Default Page Layout"
+msgstr ""
+
+#: inc/customizer.php:274
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for specific page"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Default Single Post Layout"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid ""
+"Select default layout for single posts. This layout will be reflected in "
+"all single posts unless unique layout is set for specific post"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Primary Color Option"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to "
+"match your site"
+msgstr ""
+
+#: inc/customizer.php:360
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer.php:377
+msgid "Choose the number of widget area you want in footer"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "1 Footer Widget Area"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "2 Footer Widget Area"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "3 Footer Widget Area"
+msgstr ""
+
+#: inc/customizer.php:384
+msgid "4 Footer Widget Area"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "Some additional settings."
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "Additional Options"
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Author Bio Option"
+msgstr ""
+
+#: inc/customizer.php:415
+msgid "Check to display the author bio."
+msgstr ""
+
+#: inc/customizer.php:425
+msgid "Excerpt/Full Content Option"
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Toggle between displaying excerpts and full posts on your blog and archives."
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Show Full Post Content"
+msgstr ""
+
+#: inc/customizer.php:449
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/customizer.php:459
+msgid "Post Meta Settings"
+msgstr ""
+
+#: inc/customizer.php:477
+msgid "Hide all post meta data under post title."
+msgstr ""
+
+#: inc/customizer.php:497
+msgid "Hide date under post title."
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Hide author under post title."
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Hide comment count under post title."
+msgstr ""
+
+#: inc/customizer.php:557
+msgid "Hide category under post title."
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:579
+msgid "Check to activate the related posts"
+msgstr ""
+
+#: inc/customizer.php:592
+msgid "Related Posts Must Be Shown As:"
+msgstr ""
+
+#: inc/customizer.php:596
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:597
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:614
+msgid "Hide tags under post title."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "FitClub"
+msgstr ""
+
+#: inc/demo-config.php:26
+msgid "FitClub Pro"
+msgstr ""
+
+#: inc/event-widget.php:174 inc/fitclub.php:294
+msgid "Upcoming Events"
+msgstr ""
+
+#: inc/fitclub.php:26
+msgid "0 Comment"
+msgstr ""
+
+#: inc/fitclub.php:26
+msgid "1 Comment"
+msgstr ""
+
+#: inc/fitclub.php:26
+msgid " % Comments"
+msgstr ""
+
+#: inc/fitclub.php:245
+msgid "WordPress"
+msgstr ""
+
+#: inc/fitclub.php:247
+msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+msgstr ""
+
+#: inc/fitclub.php:247
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/fitclub.php:247
+msgid "Powered by "
+msgstr ""
+
+#: inc/fitclub.php:266
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/fitclub.php:268
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/fitclub.php:295
+msgid "Past Events"
+msgstr ""
+
+#: inc/fitclub.php:296
+msgid "Events for %1$s - %2$s"
+msgstr ""
+
+#: inc/fitclub.php:297 inc/fitclub.php:298
+msgid "Events for %1$s"
+msgstr ""
+
+#: inc/fitclub.php:299
+msgid "All events for %s"
+msgstr ""
+
+#: inc/fitclub.php:300
+msgid "Events for week of %s"
+msgstr ""
+
+#: inc/related-posts.php:8
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:7
+msgid "Show your about page."
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:13
+msgid "TG: About Widget"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:36
+#: inc/widgets/class-fitclub-call-to-action-widget.php:32
+#: inc/widgets/class-fitclub-testimonial-widget.php:31
+msgid "Design Settings:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:38
+#: inc/widgets/class-fitclub-call-to-action-widget.php:33
+#: inc/widgets/class-fitclub-testimonial-widget.php:32
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:42
+msgid "Background Image:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:51
+#: inc/widgets/class-fitclub-call-to-action-widget.php:46
+#: inc/widgets/class-fitclub-testimonial-widget.php:45
+msgid "Choose an image"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:51
+#: inc/widgets/class-fitclub-call-to-action-widget.php:46
+#: inc/widgets/class-fitclub-testimonial-widget.php:45
+msgid "Use image"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:51
+#: inc/widgets/class-fitclub-call-to-action-widget.php:46
+#: inc/widgets/class-fitclub-testimonial-widget.php:45
+msgid "Select an Image"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:56
+#: inc/widgets/class-fitclub-featured-posts-widget.php:32
+#: inc/widgets/class-fitclub-service-widget.php:27
+#: inc/widgets/class-fitclub-team-widget.php:28
+#: inc/widgets/class-fitclub-testimonial-widget.php:49
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:60
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:61
+msgid "Page"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:71
+#: inc/widgets/class-fitclub-call-to-action-widget.php:55
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:76
+#: inc/widgets/class-fitclub-call-to-action-widget.php:59
+msgid "Button Redirect Link:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:81
+msgid "Button Icon Class:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:88
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr ""
+
+#: inc/widgets/class-fitclub-about-us-widget.php:144
+#: inc/widgets/class-fitclub-featured-posts-widget.php:137
+#: template-parts/content.php:58 template-parts/content.php:63
+msgid "Read more"
+msgstr ""
+
+#: inc/widgets/class-fitclub-call-to-action-widget.php:7
+msgid "Use this widget to show the call to action section."
+msgstr ""
+
+#: inc/widgets/class-fitclub-call-to-action-widget.php:13
+msgid "TG: Call To Action Widget"
+msgstr ""
+
+#: inc/widgets/class-fitclub-call-to-action-widget.php:37
+#: inc/widgets/class-fitclub-testimonial-widget.php:36
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-call-to-action-widget.php:50
+msgid "Other Settings :"
+msgstr ""
+
+#: inc/widgets/class-fitclub-call-to-action-widget.php:52
+msgid "Call to Action Main Text"
+msgstr ""
+
+#: inc/widgets/class-fitclub-featured-posts-widget.php:8
+msgid "Display latest posts or posts of specific category"
+msgstr ""
+
+#: inc/widgets/class-fitclub-featured-posts-widget.php:14
+msgid "TG: Featured Posts"
+msgstr ""
+
+#: inc/widgets/class-fitclub-featured-posts-widget.php:36
+msgid "Number of posts to display:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-featured-posts-widget.php:41
+msgid "Show latest Posts"
+msgstr ""
+
+#: inc/widgets/class-fitclub-featured-posts-widget.php:42
+msgid "Show posts from a category"
+msgstr ""
+
+#: inc/widgets/class-fitclub-featured-posts-widget.php:46
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/class-fitclub-featured-posts-widget.php:125
+msgid "Blog Image"
+msgstr ""
+
+#: inc/widgets/class-fitclub-service-widget.php:7
+msgid "Display some pages as services."
+msgstr ""
+
+#: inc/widgets/class-fitclub-service-widget.php:13
+msgid "TG: Service Widget"
+msgstr ""
+
+#: inc/widgets/class-fitclub-service-widget.php:32
+#: inc/widgets/class-fitclub-team-widget.php:33
+#: inc/widgets/class-fitclub-testimonial-widget.php:54
+msgid "Number of pages to display:"
+msgstr ""
+
+#: inc/widgets/class-fitclub-service-widget.php:36
+msgid ""
+"Note: Create the pages and select Service Template to display Services "
+"pages."
+msgstr ""
+
+#: inc/widgets/class-fitclub-service-widget.php:114
+msgid "Learn More"
+msgstr ""
+
+#: inc/widgets/class-fitclub-team-widget.php:7
+msgid "Show your Team Members."
+msgstr ""
+
+#: inc/widgets/class-fitclub-team-widget.php:14
+msgid "TG: Our Team Widget"
+msgstr ""
+
+#: inc/widgets/class-fitclub-team-widget.php:36
+msgid "Note: Create the pages and select Team Template to display Our Team pages."
+msgstr ""
+
+#: inc/widgets/class-fitclub-testimonial-widget.php:7
+msgid "Display some pages as testimonial."
+msgstr ""
+
+#: inc/widgets/class-fitclub-testimonial-widget.php:13
+msgid "TG: Testimonial Widget"
+msgstr ""
+
+#: inc/widgets/class-fitclub-testimonial-widget.php:58
+msgid ""
+"Note: Create the pages and select Testimonial Template to display "
+"Testimonial pages."
+msgstr ""
+
+#: inc/widgets.php:22
+msgid "Show widgets at Right side"
+msgstr ""
+
+#: inc/widgets.php:32
+msgid "Show widgets at Left side"
+msgstr ""
+
+#: inc/widgets.php:40
+msgid "404 Page Sidebar"
+msgstr ""
+
+#: inc/widgets.php:42
+msgid "Show widgets at 404 Error Page"
+msgstr ""
+
+#: inc/widgets.php:50
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: inc/widgets.php:52
+msgid "Show widgets at Front Page Content Section"
+msgstr ""
+
+#: inc/widgets.php:62
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: inc/widgets.php:64 inc/widgets.php:75 inc/widgets.php:87 inc/widgets.php:99
+msgid "Show widgets at Footer section"
+msgstr ""
+
+#: inc/widgets.php:73
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: inc/widgets.php:85
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: inc/widgets.php:97
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr ""
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr ""
+
+#: no-results.php:18 template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:23 template-parts/content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:28 template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: page-templates/template-team-collection.php:77
+#: template-parts/content-slider.php:42
+msgid "Read More"
+msgstr ""
+
+#: sidebar/left.php:18 sidebar/right.php:18
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar/left.php:19
+msgid ""
+"This is an example widget to show how the Left Sidebar looks by default. "
+"You can add custom widgets from the %swidgets screen%s in the admin. If "
+"custom widgets is added than this will be replaced by those widgets."
+msgstr ""
+
+#: sidebar/right.php:19
+msgid ""
+"This is an example widget to show how the Right Sidebar looks by default. "
+"You can add custom widgets from the %swidgets screen%s in the admin. If "
+"custom widgets is added than this will be replaced by those widgets."
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:58
+#: template-parts/content-team.php:38
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:36 template-parts/content-team.php:49
+#. translators: %s: Name of current page
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: tribe-events/widgets/tg-list-widget.php:61
+msgid "View All %s"
+msgstr ""
+
+#: tribe-events/widgets/tg-list-widget.php:67
+msgid "There are no upcoming %s at this time."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/fitclub/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"FitClub specially focuses on creating fitness, gym type of websites. "
+"However, due to its flexibility and easiness it can be used to create any "
+"types of sites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "FitClub Startpage"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Service Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Team Collection Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Team Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Testimonial Template"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

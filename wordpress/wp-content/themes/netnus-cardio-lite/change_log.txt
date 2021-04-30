@@ -1,0 +1,5 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Theme update with adding proper escape functions and resolving some css issues.

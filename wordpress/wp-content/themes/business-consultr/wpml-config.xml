@@ -1,0 +1,14 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_business-consultr">
+            <key name="callback_title" />
+            <key name="callback_button_text" />
+            <key name="top_header_phone" />
+            <key name="top_header_email" />
+            <key name="top_header_address" />
+            <key name="header_button" />
+            <key name="archive_page_title" />
+            <key name="footer_text" />  
+        </key>
+    </admin-texts>
+</wpml-config>
